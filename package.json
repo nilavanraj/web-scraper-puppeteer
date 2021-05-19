@@ -1,0 +1,16 @@
+{
+  "name": "typcript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "puppeteer": "^9.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nilavan raj",
+  "license": "ISC"
+}
