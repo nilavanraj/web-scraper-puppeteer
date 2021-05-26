@@ -1,4 +1,4 @@
-# Puppeteer-Assessment
+# Puppeteer web-scraper
 
 The main goal of this project is to scrape large data using utilize Puppeteer in order to scrape repetitive structures, navigate over pages through repetitive button clicks, and manipulate text and save all of the scraped info into a structure.
 
